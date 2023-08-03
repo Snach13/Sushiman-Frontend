@@ -1,5 +1,7 @@
 # Built and Deploy a Responsive Website 
 
+Deploy Version - https://sushiman-frontend.netlify.app/
+
 ## Introduction
 In this website we'll use following technologies:
 - Use CSS variables
